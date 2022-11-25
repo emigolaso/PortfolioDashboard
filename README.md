@@ -4,6 +4,11 @@ This project takes a Thinkorswim data export and turns it into a Dash Dashboard.
 The columns in the **monitor > Activity and Positions** table in Thinkorswim need to match the screenshot. 
 There are 3 excel exports included in the repo you can use to run this project. 
 
+This repo has 5 files
+1. PortfolioAnalysisPlotly.ipynb: This notebook is the official notebook you will need to run the project
+2. PA_Dev.ipynb: Development/Scrap notebook that was left as an FYI
+3. yyyy-mm-dd-PositionStatement.csv (X3): ThinkorSwim export files that are used to create the dashboard
+
 Useful Resources: 
 
 [Simple Dashboard with Plotly and Dash](https://towardsdatascience.com/create-a-simple-dashboard-with-plotly-dash-8f385ba1dd6d) <br>
