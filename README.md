@@ -1,8 +1,7 @@
 # Stock Portfolio Dashboard with Dash
 
 This project takes a Thinkorswim data export and turns it into a Dash Dashboard. <br>
-The columns in the **monitor > Activity and Positions** table in Thinkorswim need to match the screenshot. 
-There are 3 excel exports included in the repo you can use to run this project. 
+If you wish to run the project using your own data (not the data in the excel files in this repo), the **monitor > Activity and Positions** table in **Thinkorswim** needs to match the screenshot. <br>
 
 This repo has 5 files
 1. PortfolioAnalysisPlotly.ipynb: This notebook is the official notebook you will need to run the project
