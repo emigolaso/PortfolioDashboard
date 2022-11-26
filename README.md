@@ -20,6 +20,7 @@ Useful Resources:
 ![ThinkorswimDash](https://user-images.githubusercontent.com/53913862/204049273-37558f92-8aae-42ab-b0f7-6723bf23f690.png)
 
 ## Thinkorswim export view
-![image](https://user-images.githubusercontent.com/53913862/204049237-b5a4cf27-a592-4e24-9524-8a799a5d34cf.png)
+Click on the **_book_ icon > _Export to file...** on the _Position Statement_ line to export the necessary data. Take note of the columns. They should be in that order. 
+![image](https://user-images.githubusercontent.com/53913862/204095032-0433164b-d7da-4645-b0f9-2a88f615fae7.png)
 
 
